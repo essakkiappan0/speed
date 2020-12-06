@@ -9,3 +9,9 @@ The PS4 is the uppermost stage of PSLV,comprising of two earth storable liquid e
 ENGINE               :2 X PS-4
 FUEL	            :MMH + MON
 MAX.THRUST :7.6 X 2KN
+
+THIRD STAGE :PS3
+The third stage of PSLV is a solid rocket motor that provides the upper stageshigh thrust 
+after the atmospheric phase of the launch
+FUEL     	            :HTPB
+MAX THRUST :240 KN
