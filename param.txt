@@ -1,0 +1,11 @@
+BASE PARAM
+Height                    : 44m
+Diameter               :2.8m
+Number of stages :4
+Lift off mass         :320 tonnes(XL)
+
+FOURTH STAGE:PS4
+The PS4 is the uppermost stage of PSLV,comprising of two earth storable liquid engines.
+ENGINE               :2 X PS-4
+FUEL	            :MMH + MON
+MAX.THRUST :7.6 X 2KN
