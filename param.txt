@@ -23,3 +23,8 @@ ENGINE               :vikas
 FUEL                     :UDMH +N2O4
 MAX.THRUST :799KN
 
+FIRST STAGE:PS1
+PSLV uses the s139 solid rocket motor that is augmented by 6 solid strap-on boosters
+ENGINE               : S139
+FUEL	            :HTPB
+MAX.THRUST :4800KN
